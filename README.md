@@ -2,7 +2,7 @@
   <img width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ5OHU5MThudWpwZWNhOXQwaXBwbm8wbHM5dHN1ZGF5cjBwODZpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="coding">
 </div>
 
-<h1 align="center">Hi 👋, I'm Aishvarya Jaiswal</h1>
+<h1 align="center">Hi 👋, I'm Aishvarya</h1>
 
 <h3 align="center">A passionate Software Developer from India. </h3>
 
